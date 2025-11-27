@@ -27,3 +27,7 @@ Este projeto tem como objetivo estudar as tecnologias do HTML e CSS tornando a p
 ![alt text](prints/img5.png)
 ![alt text](prints/img7.png)
 ![alt text](prints/img6.png)
+
+
+## Pisicologia das cores
+![alt text](<prints/Psicologia das cores.png>)
